@@ -1,7 +1,7 @@
 import math
-###
+'''
 https://www.codedex.io/@SahilChess/build/area-calculator
-###
+'''
 
 while True:
     print("""================== Area Calculator 📐 ==================  
